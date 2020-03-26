@@ -1,0 +1,9 @@
+# This is a configuration file.
+# Please check if the right hand site values are correct
+# -----------------------------------------------------------------------------
+input_path: data\test.xlsx
+output_path: data\test_output.xlsx
+sheet_name: Sheet1
+get_data_cell_address: A2
+set_data_cell_address: B2
+data_to_insert: HELLO WINGS!
